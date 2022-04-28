@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jinalgoyani
 - 👀 I’m interested in programming, exploring new things, new technologies
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and want to make an excellent career in the field of Data Science.
 - 📫 How to reach me ...jinalgoyani.an@gmail.com
 
 <!---
